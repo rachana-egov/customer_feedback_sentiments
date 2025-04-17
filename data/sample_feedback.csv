@@ -1,11 +1,3 @@
-feedback,sentiment
-The product quality is amazing!,positive
-I am disappointed with the service.,negative
-Average experience.,neutral
-Excellent support from the team!,positive
-Will not buy again.,negative
-Delivery was on time and packaging was great.,positive
-The item arrived broken.,negative
-Nothing special about the product.,neutral
-I'm super happy with the purchase!,positive
-Customer care didn't respond.,negative
+version https://git-lfs.github.com/spec/v1
+oid sha256:f455fb97053f65decaa8a082e0c45c8f2acdffb19d16053ae8bffaa4bb96bdfd
+size 419
